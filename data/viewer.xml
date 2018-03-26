@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="0" defaultSlideDuration="5" start="paused" buildNum="11.1.0.189">
+	<presentationTitle>Verbes du premier groupe</presentationTitle>
+	<speakers></speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_52b17d1265564d538feea84c392862e4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_310b69a6e2d74802b1207601c0969277yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop frameNum="1" displayBgSp="true"/><slidexml><AS3Class className="TL_06d9f21b102542618dc1b58f3fe98dbdyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_1c72d9e924bb4ba2bc17e26a7ee6ff9fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="266" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="pause" blockMovement="false" hideplaybar="true" type="normal">
+			<content url="Slide0.swf" id="266"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6aa3359c807f4cf99383bef0964a4e05yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="2034"/>
+				<click startTime="2235" isStartRelative="false" duration="534"/>
+				<click startTime="2803" isStartRelative="false" duration="1034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@موقع تعليم اللغه الفرنسيه www.gamalasker.com  يقدم لكم@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+		</slide>
+		<slide id="256" showInTOC="" inSequence="" frameRate="30" totalFrames="120" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="pause" blockMovement="false" hideplaybar="true" type="normal">
+			<content url="Slide1.swf" id="256"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_074749416080457d8018e2c728823283yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="1034"/>
+				<click startTime="1235" isStartRelative="false" duration="2034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Verbes du premier groupe تصريف افعال المجموعه الاولى فى زمن المضارع@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+		</slide>
+		<slide id="257" showInTOC="" inSequence="" frameRate="30" totalFrames="570" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="19" advance="pause" blockMovement="false" hideplaybar="true" type="normal">
+			<content url="Slide2.swf" id="257"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5cc82323750a4570ac60a27b9a9501c3yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="6534"/>
+				<click startTime="6735" isStartRelative="false" duration="12015"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Parler : يتحدث@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+		</slide>
+		<slide id="258" showInTOC="" inSequence="" frameRate="30" totalFrames="450" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="15" advance="pause" blockMovement="false" hideplaybar="true" type="normal">
+			<content url="Slide3.swf" id="258"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_dedc7634035b42ccb77e7049e26b20b1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="3534"/>
+				<click startTime="3735" isStartRelative="false" duration="11086"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Écouter يستمع@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+		</slide>
+		<slide id="259" showInTOC="" inSequence="" frameRate="30" totalFrames="810" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="27" advance="pause" blockMovement="false" hideplaybar="true" type="normal">
+			<content url="Slide4.swf" id="259"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_da2b0328f5aa40d4af2ff27ff7247363yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="534"/>
+				<click startTime="735" isStartRelative="false" duration="167"/>
+				<click startTime="936" isStartRelative="false" duration="167"/>
+				<click startTime="1137" isStartRelative="false" duration="25077"/>
+				<click startTime="26248" isStartRelative="false" duration="167"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@الافعال التاليه تصرف مثل الفعلين السابقين@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+		</slide>
+		<slide id="260" showInTOC="" inSequence="" frameRate="30" totalFrames="390" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="13" advance="pause" blockMovement="false" hideplaybar="true" type="normal">
+			<content url="Slide5.swf" id="260"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a8fa59cf06864d41b751ee31573d7e78yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="534"/>
+				<click startTime="735" isStartRelative="false" duration="534"/>
+				<click startTime="1303" isStartRelative="false" duration="11063"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@فى الافعال التاليه نضيف حرف (e) قبل (ons) مع الضمير (nous) فقط@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+		</slide>
+		<slide id="261" showInTOC="" inSequence="" frameRate="30" totalFrames="480" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="16" advance="pause" blockMovement="false" hideplaybar="true" type="normal">
+			<content url="Slide6.swf" id="261"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_683f5cc840f04c6489c56edd2d415822yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="534"/>
+				<click startTime="735" isStartRelative="false" duration="167"/>
+				<click startTime="936" isStartRelative="false" duration="14430"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@حالات خاصه (1)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+		</slide>
+		<slide id="267" showInTOC="" inSequence="" frameRate="30" totalFrames="540" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="18" advance="pause" blockMovement="false" hideplaybar="true" type="normal">
+			<content url="Slide7.swf" id="267"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a69af15d47db43e4933da1efba58a3a6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="534"/>
+				<click startTime="735" isStartRelative="false" duration="534"/>
+				<click startTime="1303" isStartRelative="false" duration="16032"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@يصرف مثل الفعل السابق(espérer)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+		</slide>
+		<slide id="262" showInTOC="" inSequence="" frameRate="30" totalFrames="420" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="14" advance="pause" blockMovement="false" hideplaybar="true" type="normal">
+			<content url="Slide8.swf" id="262"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4211ab7240c8425989163b0c45c63ffayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="534"/>
+				<click startTime="735" isStartRelative="false" duration="534"/>
+				<click startTime="1303" isStartRelative="false" duration="12399"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@حالات خاصه (2)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+		</slide>
+		<slide id="268" showInTOC="" inSequence="" frameRate="30" totalFrames="540" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="18" advance="pause" blockMovement="false" hideplaybar="true" type="normal">
+			<content url="Slide9.swf" id="268"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ad0d7229a6f34fff96c2d8c63d0d91a3yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="534"/>
+				<click startTime="735" isStartRelative="false" duration="534"/>
+				<click startTime="1303" isStartRelative="false" duration="16078"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@الافعال التاليه تصرف مثل فعل: (acheter) @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+		</slide>
+		<slide id="263" showInTOC="" inSequence="" frameRate="30" totalFrames="360" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="12" advance="pause" blockMovement="false" hideplaybar="true" type="normal">
+			<content url="Slide10.swf" id="263"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_25e619b86aaa4846b0a9e56ba2245cb6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="534"/>
+				<click startTime="735" isStartRelative="false" duration="534"/>
+				<click startTime="1303" isStartRelative="false" duration="10064"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@حالات خاصه (3)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+		</slide>
+		<slide id="269" showInTOC="" inSequence="" frameRate="30" totalFrames="270" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="9" advance="pause" blockMovement="false" hideplaybar="true" type="normal">
+			<content url="Slide11.swf" id="269"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_271955bfadcc434697fab606caaf85cbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="534"/>
+				<click startTime="735" isStartRelative="false" duration="534"/>
+				<click startTime="1303" isStartRelative="false" duration="7022"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@الافعال التاليه تصرف مثل(appeler)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+		</slide>
+		<slide id="270" showInTOC="" inSequence="" frameRate="30" totalFrames="360" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="12" advance="pause" blockMovement="false" hideplaybar="true" type="normal">
+			<content url="Slide12.swf" id="270"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1e2c0c34a13a4a3ba414fcff37a3ad7byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="534"/>
+				<click startTime="735" isStartRelative="false" duration="534"/>
+				<click startTime="1303" isStartRelative="false" duration="10064"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@حالات خاصه (4)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+		</slide>
+		<slide id="264" showInTOC="" inSequence="" frameRate="30" totalFrames="390" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="13" advance="pause" blockMovement="false" hideplaybar="true" type="normal">
+			<content url="Slide13.swf" id="264"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_cd1f4ea23a1f461ea2e5cba9dcc0fa35yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="534"/>
+				<click startTime="735" isStartRelative="false" duration="534"/>
+				<click startTime="1303" isStartRelative="false" duration="11132"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@الافعال التاليه تصرف مثل (Envoyer)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+		</slide>
+		<slide id="265" showInTOC="" inSequence="" frameRate="30" totalFrames="390" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="13" advance="pause" blockMovement="false" hideplaybar="true" type="normal">
+			<content url="Slide14.swf" id="265"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a75cacc1686148369700fa0223129ca0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="534"/>
+				<click startTime="735" isStartRelative="false" duration="534"/>
+				<click startTime="1303" isStartRelative="false" duration="11527"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@حالات خاصه (5)هذا الفعل له تصريفان@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+		</slide>
+		<slide id="271" showInTOC="" inSequence="" frameRate="30" totalFrames="390" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="13" advance="pause" blockMovement="false" hideplaybar="true" type="normal">
+			<content url="Slide15.swf" id="271"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1858f88d078b4d59b15c7fef244cb249yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="534"/>
+				<click startTime="735" isStartRelative="false" duration="534"/>
+				<click startTime="1303" isStartRelative="false" duration="11109"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@حالات خاصه (5)هذا الفعل له تصريفان@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+		</slide>
+		<slide id="272" showInTOC="" inSequence="" frameRate="30" totalFrames="90" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="pause" blockMovement="false" hideplaybar="true" type="normal">
+			<content url="Slide16.swf" id="272"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_82b33606597d44d790047a2b5f450699yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="2034"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Des exercices@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+		</slide>
+		<slide id="273" showInTOC="false" inSequence="" frameRate="30" totalFrames="180" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="6" advance="pause" blockMovement="false" hideplaybar="true" type="quiz" quiz="10097" group="-1">
+			<questions>
+				<question index="10102" weight="10" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks>
+				<audioFeedback id="1" url="a24x1x1.mp3"/>
+				<audioFeedback id="2" url="a24x2x1.mp3"/>
+			</audioFeedbacks>
+			<content url="Slide17.swf" id="273"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9c643387c6d24aa0b974d06d6e30e7a1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10102xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="1" interactionType="choice" questionNumInQuiz="10102" questionText="" isTracked="1" objectiveID="اختبار10097" interactionID="تفاعل10102" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="2" actionArg1="" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10102xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+				<click startTime="4367" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@nous@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+		</slide>
+		<slide id="275" showInTOC="false" inSequence="" frameRate="30" totalFrames="180" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="6" advance="pause" blockMovement="false" hideplaybar="true" type="quiz" quiz="10097" group="-1">
+			<questions>
+				<question index="10113" weight="10" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks>
+				<audioFeedback id="3" url="a24x3x1.mp3"/>
+				<audioFeedback id="4" url="a24x4x1.mp3"/>
+			</audioFeedbacks>
+			<content url="Slide18.swf" id="275"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_33fd54f35f1e4659bbc61d09997c3c43yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10113xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="1" interactionType="choice" questionNumInQuiz="10113" questionText="" isTracked="1" objectiveID="اختبار10097" interactionID="Interaction10113" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="3" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="4" actionArg1="" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10113xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+				<click startTime="4367" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Ils@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+		</slide>
+		<slide id="276" showInTOC="false" inSequence="" frameRate="30" totalFrames="180" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="6" advance="pause" blockMovement="false" hideplaybar="true" type="quiz" quiz="10097" group="-1">
+			<questions>
+				<question index="10117" weight="10" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks>
+				<audioFeedback id="5" url="a24x5x1.mp3"/>
+				<audioFeedback id="6" url="a24x6x1.mp3"/>
+			</audioFeedbacks>
+			<content url="Slide19.swf" id="276"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_485439e7e8f7404a891f9f0674dd366byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10117xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="1" interactionType="choice" questionNumInQuiz="10117" questionText="" isTracked="1" objectiveID="اختبار10097" interactionID="Interaction10117" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="5" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="6" actionArg1="" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10117xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+				<click startTime="4367" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Ils@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+		</slide>
+		<slide id="277" showInTOC="false" inSequence="" frameRate="30" totalFrames="180" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="6" advance="pause" blockMovement="false" hideplaybar="true" type="quiz" quiz="10097" group="-1">
+			<questions>
+				<question index="10118" weight="10" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks>
+				<audioFeedback id="7" url="a24x7x1.mp3"/>
+				<audioFeedback id="8" url="a24x8x1.mp3"/>
+			</audioFeedbacks>
+			<content url="Slide20.swf" id="277"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_81c860af3f694a13b86641a3c9cffa47yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10118xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="1" interactionType="choice" questionNumInQuiz="10118" questionText="" isTracked="1" objectiveID="اختبار10097" interactionID="Interaction10118" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="7" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="8" actionArg1="" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10118xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+				<click startTime="4367" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Nous@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+		</slide>
+		<slide id="278" showInTOC="false" inSequence="" frameRate="30" totalFrames="180" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="6" advance="pause" blockMovement="false" hideplaybar="true" type="quiz" quiz="10097" group="-1">
+			<questions>
+				<question index="10119" weight="10" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks>
+				<audioFeedback id="9" url="a24x9x1.mp3"/>
+				<audioFeedback id="10" url="a24x10x1.mp3"/>
+			</audioFeedbacks>
+			<content url="Slide21.swf" id="278"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a7c96dfdaaf74e108661731c6d3d8374yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10119xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="1" interactionType="choice" questionNumInQuiz="10119" questionText="" isTracked="1" objectiveID="اختبار10097" interactionID="Interaction10119" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="9" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="10" actionArg1="" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10119xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+				<click startTime="4367" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@J’@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="22"/>
+		</slide>
+		<slide id="279" showInTOC="false" inSequence="" frameRate="30" totalFrames="180" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="6" advance="pause" blockMovement="false" hideplaybar="true" type="quiz" quiz="10097" group="-1">
+			<questions>
+				<question index="10120" weight="10" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks>
+				<audioFeedback id="11" url="a24x11x1.mp3"/>
+				<audioFeedback id="12" url="a24x12x1.mp3"/>
+			</audioFeedbacks>
+			<content url="Slide22.swf" id="279"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4d9c8e530dc549d98f4b5d1aacf2fc96yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10120xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="1" interactionType="choice" questionNumInQuiz="10120" questionText="" isTracked="1" objectiveID="اختبار10097" interactionID="Interaction10120" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="11" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="12" actionArg1="" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10120xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+				<click startTime="4367" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@tu@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="23"/>
+		</slide>
+		<slide id="280" showInTOC="false" inSequence="" frameRate="30" totalFrames="180" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="6" advance="pause" blockMovement="false" hideplaybar="true" type="quiz" quiz="10097" group="-1">
+			<questions>
+				<question index="10121" weight="10" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks>
+				<audioFeedback id="13" url="a24x13x1.mp3"/>
+				<audioFeedback id="14" url="a24x14x1.mp3"/>
+			</audioFeedbacks>
+			<content url="Slide23.swf" id="280"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8060aa696d474cb6a0b60b2bc28ef5adyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10121xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="1" interactionType="choice" questionNumInQuiz="10121" questionText="" isTracked="1" objectiveID="اختبار10097" interactionID="Interaction10121" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="13" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="14" actionArg1="" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10121xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+				<click startTime="4367" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Ils@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="24"/>
+		</slide>
+		<slide id="281" showInTOC="false" inSequence="" frameRate="30" totalFrames="180" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="6" advance="pause" blockMovement="false" hideplaybar="true" type="quiz" quiz="10097" group="-1">
+			<questions>
+				<question index="10122" weight="10" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks>
+				<audioFeedback id="15" url="a24x15x1.mp3"/>
+				<audioFeedback id="16" url="a24x16x1.mp3"/>
+			</audioFeedbacks>
+			<content url="Slide24.swf" id="281"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_628ad58545424a8488711144fc4ed481yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10122xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="1" interactionType="choice" questionNumInQuiz="10122" questionText="" isTracked="1" objectiveID="اختبار10097" interactionID="Interaction10122" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="15" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="16" actionArg1="" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10122xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+				<click startTime="4367" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Elle@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="25"/>
+		</slide>
+		<slide id="282" showInTOC="false" inSequence="" frameRate="30" totalFrames="180" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="6" advance="pause" blockMovement="false" hideplaybar="true" type="quiz" quiz="10097" group="-1">
+			<questions>
+				<question index="10123" weight="10" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks>
+				<audioFeedback id="17" url="a24x17x1.mp3"/>
+				<audioFeedback id="18" url="a24x18x1.mp3"/>
+			</audioFeedbacks>
+			<content url="Slide25.swf" id="282"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c804c1e64e4842a4a4db503714c75ab8yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10123xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="1" interactionType="choice" questionNumInQuiz="10123" questionText="" isTracked="1" objectiveID="اختبار10097" interactionID="Interaction10123" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="17" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="18" actionArg1="" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10123xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+				<click startTime="4367" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Mon frère@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="26"/>
+		</slide>
+		<slide id="274" showInTOC="false" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="pause" blockMovement="false" hideplaybar="true" type="scoring" quiz="10097">
+			<content url="Slide26.swf" id="274"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_461a403e575e4e5cb844902ab9531e06yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="ScoringSlide"/></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@quiz@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="27"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="true" showScores="true" showPassScore="true" showCurrentScore="true" showQuestionMarks="true" showAttempts="true" showQuizAttempts="true" showQuestionAttempts="true" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="true"></quizSettings>
+		<quiz quizID="10097" title="اختبار" numQuizAttemptsAllowed="1" minScore="0" passingScore="80" percent="true" passingGradeAction="nextSlide" passingGradeActionArg1="" passingGradeActionArg2="1" failingGradeAction="nextSlide" failingGradeActionArg1="" failingGradeActionArg2="1" questionAdvance="optional" quizAdvance="optional" showProgress="minimal" allowBackwardMovementInQuiz="true" allowReviewMode="true" passedScoreFeedback="نجاح" failedScoreFeedback="فشل" shuffleQuestions="0">
+			<questiongroups></questiongroups>
+		</quiz>
+		<quiz quizID="10037" title="اختبار" numQuizAttemptsAllowed="1" minScore="0" passingScore="80" percent="true" passingGradeAction="nextSlide" passingGradeActionArg1="" passingGradeActionArg2="1" failingGradeAction="nextSlide" failingGradeActionArg1="" failingGradeActionArg2="1" questionAdvance="optional" quizAdvance="optional" showProgress="minimal" allowBackwardMovementInQuiz="true" allowReviewMode="true" passedScoreFeedback="" failedScoreFeedback="Tu n'as pas réussi" shuffleQuestions="0">
+			<questiongroups></questiongroups>
+		</quiz>
+		<quiz quizID="10004" title="اختبار" numQuizAttemptsAllowed="1" minScore="0" passingScore="80" percent="true" passingGradeAction="nextSlide" passingGradeActionArg1="" passingGradeActionArg2="1" failingGradeAction="nextSlide" failingGradeActionArg1="" failingGradeActionArg2="1" questionAdvance="optional" quizAdvance="optional" showProgress="minimal" allowBackwardMovementInQuiz="true" allowReviewMode="true" passedScoreFeedback="نجاح" failedScoreFeedback="فشل" shuffleQuestions="0">
+			<questiongroups></questiongroups>
+		</quiz>
+		<quiz quizID="10062" title="اختبار" numQuizAttemptsAllowed="1" minScore="0" passingScore="80" percent="true" passingGradeAction="nextSlide" passingGradeActionArg1="" passingGradeActionArg2="1" failingGradeAction="nextSlide" failingGradeActionArg1="" failingGradeActionArg2="1" questionAdvance="mustAnswer" quizAdvance="mustTake" showProgress="minimal" allowBackwardMovementInQuiz="true" allowReviewMode="true" passedScoreFeedback="نجاح" failedScoreFeedback="فشل" shuffleQuestions="0">
+			<questiongroups>
+				<questiongroup groupID="10081" groupName="Choisis la bonne réponse" shuffleQuestions="1" subsetSize="-1" defaultMarks="10">
+					<branches>
+						<branch entryPct="0" exitPct="49" actionType="nextSlide" actionData="" actionUri="" actionPopupWindow="currentWindow"/>
+						<branch entryPct="50" exitPct="100" actionType="nextSlide" actionData="" actionUri="" actionPopupWindow="currentWindow"/>
+					</branches>
+				</questiongroup>
+			</questiongroups>
+		</quiz>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

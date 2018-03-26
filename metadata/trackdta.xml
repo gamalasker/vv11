@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracking-metadata generator="Presenter ver 10.0" version="1.0">
+	<objective id="اختبار10097" max-score="90" passing-score="72" min-score="0">
+		<name>اختبار</name>
+		<interactions>
+			<interaction id="تفاعل10102" QUniqId="10102" type="choice" score="10" correct-response="1">
+				<name>Choisis la bonne réponse</name>
+				<title>nous</title>
+				<responses>
+					<response id="1">aimons </response>
+					<response id="2">aimez </response>
+					<response id="3">aiment </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10113" QUniqId="10113" type="choice" score="10" correct-response="1">
+				<name>Choisis la bonne réponse</name>
+				<title>Ils</title>
+				<responses>
+					<response id="1">parlent </response>
+					<response id="2">parles </response>
+					<response id="3">parlez </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10117" QUniqId="10117" type="choice" score="10" correct-response="1">
+				<name>Choisis la bonne réponse</name>
+				<title>Ils</title>
+				<responses>
+					<response id="1">jettent </response>
+					<response id="2">jetent </response>
+					<response id="3">jettes </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10118" QUniqId="10118" type="choice" score="10" correct-response="1">
+				<name>Choisis la bonne réponse</name>
+				<title>Nous</title>
+				<responses>
+					<response id="1">mangeons </response>
+					<response id="2">mangons </response>
+					<response id="3">mangent </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10119" QUniqId="10119" type="choice" score="10" correct-response="1">
+				<name>Choisis la bonne réponse</name>
+				<title>J’</title>
+				<responses>
+					<response id="1">essaie </response>
+					<response id="2">essaies </response>
+					<response id="3">essayes </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10120" QUniqId="10120" type="choice" score="10" correct-response="1">
+				<name>Choisis la bonne réponse</name>
+				<title>tu</title>
+				<responses>
+					<response id="1">achètes </response>
+					<response id="2">achetes </response>
+					<response id="3">achete </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10121" QUniqId="10121" type="choice" score="10" correct-response="1">
+				<name>Choisis la bonne réponse</name>
+				<title>Ils</title>
+				<responses>
+					<response id="1">appellent </response>
+					<response id="2">appelent </response>
+					<response id="3">appelles </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10122" QUniqId="10122" type="choice" score="10" correct-response="1">
+				<name>Choisis la bonne réponse</name>
+				<title>Elle</title>
+				<responses>
+					<response id="1">pèse </response>
+					<response id="2">pèses </response>
+					<response id="3">pese </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10123" QUniqId="10123" type="choice" score="10" correct-response="1">
+				<name>Choisis la bonne réponse</name>
+				<title>Mon frère</title>
+				<responses>
+					<response id="1">paye </response>
+					<response id="2">paies </response>
+					<response id="3">payent </response>
+				</responses>
+			</interaction>
+		</interactions>
+	</objective>
+</tracking-metadata>
